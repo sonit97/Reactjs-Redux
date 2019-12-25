@@ -1,3 +1,7 @@
+simple-react-js + redux + npm-app This repository is for the Build a Node.js and React app with npm tutorial.
+
+Set up the installation in the software, in combination with Redux + Reactjs.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
